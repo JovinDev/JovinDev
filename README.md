@@ -23,13 +23,12 @@
 <h2>About me:</h2>
 <div id= "aboutmeitems">
 <p>I am a student at IFRN (Federal Institute of Education, Science, and Technology of Rio Grande do Norte)<br> in the Internet Computing course, and I have been working as a freelance full-stack developer for the past 6 months.</p>
- </div>
 
-<h2 >Studying multiple languages:</h2>
+<p>Studying multiple languages:
 <div id = "FLAGSICONS"  style = "color: white;">
 <img src = "https://uploaddeimagens.com.br/images/004/722/255/original/estados-unidos.png?1706130993" width = 40px/></a>
 <img src = "https://uploaddeimagens.com.br/images/004/722/257/original/franca.png?1706131176" height = 40px/>
-<img src = "https://uploaddeimagens.com.br/images/004/722/258/original/espanha.png?1706131280" height = 40px/>
+<img src = "https://uploaddeimagens.com.br/images/004/722/258/original/espanha.png?1706131280" height = 40px/></p>
 </div>
 
 
