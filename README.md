@@ -27,8 +27,8 @@
 
 <h2 >Studying multiple languages:</h2>
 <div id = "FLAGSICONS"  style = "color: white;">
-<img src = "https://uploaddeimagens.com.br/imagens/XK2HNGI" width = 40px/></a>
-<<img src = "https://uploaddeimagens.com.br/imagens/wvABJEk" height = 40px/>
+<img src = "https://uploaddeimagens.com.br/imagens/Zs-v70w" width = 40px/></a>
+<img src = "https://uploaddeimagens.com.br/imagens/wvABJEk" height = 40px/>
 <img src = "https://uploaddeimagens.com.br/imagens/d4fTBVo" height = 40px/>
 </div>
 
