@@ -22,7 +22,7 @@
 
 <h2>Sobre mim:</h2>
 <div id= "aboutmeitems">
-<p>I am a student at IFRN (Federal Institute of Education, Science, and Technology of Rio Grande do Norte) in the Internet Computing course, and I have been working as a freelance full-stack developer for the past 6 months.</b></p>
+<p>I am a student at IFRN (Federal Institute of Education, Science, and Technology of Rio Grande do Norte)<b> in the Internet Computing course, and I have been working as a freelance full-stack developer for the past 6 months.</b></p>
  </div>
 
 <h2 >Studying multiple languages:</h2>
