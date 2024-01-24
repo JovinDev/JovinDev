@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="https://tenor.com/view/laptop-gif-26065234">
+<img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif">
 
 <h2>About me:</h2>
 <div id= "aboutmeitems">
