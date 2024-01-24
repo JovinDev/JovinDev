@@ -20,7 +20,7 @@
 
 </div>
 
-<h2>Sobre mim:</h2>
+<h2>About me:</h2>
 <div id= "aboutmeitems">
 <p>I am a student at IFRN (Federal Institute of Education, Science, and Technology of Rio Grande do Norte)<br> in the Internet Computing course, and I have been working as a freelance full-stack developer for the past 6 months.</p>
  </div>
@@ -34,7 +34,7 @@
 
 
   
-<h2 >Tecnologias</h2>
+<h2 >Technologies</h2>
 <div id = "iconsTech" >  
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height = 40px/>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height = 40px/>
