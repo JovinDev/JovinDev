@@ -25,7 +25,7 @@
 <h2>About me:</h2>
 <div id= "aboutmeitems">
  
- <img align="right" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="215" >
+ <img align="right" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="150" >
  
 <p>I am a student at IFRN (Federal Institute of Education, Science, and Technology of Rio Grande do Norte)<br> in the Internet Computing course, and I have been working as a freelance full-stack developer for the past 6 months.</p>
 
