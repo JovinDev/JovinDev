@@ -29,7 +29,7 @@
 <div id = "FLAGSICONS"  style = "color: white;">
 <img src = "https://uploaddeimagens.com.br/imagens/Zs-v70w" width = 40px/></a>
 <img src = "https://uploaddeimagens.com.br/imagens/wvABJEk" height = 40px/>
-<img src = "https://uploaddeimagens.com.br/imagens/d4fTBVo" height = 40px/>
+<img src = "https://uploaddeimagens.com.br/images/004/722/255/original/estados-unidos.png?1706130993" height = 40px/>
 </div>
 
 
