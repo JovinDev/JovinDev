@@ -27,9 +27,9 @@
 
 <h2 >Studying multiple languages:</h2>
 <div id = "FLAGSICONS"  style = "color: white;">
-<img src = "https://uploaddeimagens.com.br/imagens/Zs-v70w" width = 40px/></a>
-<img src = "https://uploaddeimagens.com.br/imagens/wvABJEk" height = 40px/>
-<img src = "https://uploaddeimagens.com.br/images/004/722/255/original/estados-unidos.png?1706130993" height = 40px/>
+<img src = "https://uploaddeimagens.com.br/images/004/722/255/original/estados-unidos.png?1706130993" width = 40px/></a>
+<img src = "https://uploaddeimagens.com.br/images/004/722/257/original/franca.png?1706131176" height = 40px/>
+<img src = "https://uploaddeimagens.com.br/images/004/722/258/original/espanha.png?1706131280" height = 40px/>
 </div>
 
 
