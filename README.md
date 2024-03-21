@@ -1,6 +1,6 @@
 
 <div id='title' align = center>
-<h1>HI, my name is João 👋
+<h1>HI, my name is Jovin 👋
 <br>
  DEV FULLSTACK
 </h1>
