@@ -6,6 +6,8 @@
 </h1>
 </div>
 
+<h2>About me:</h2>
+
 <p align="center">
  <a href="https://www.linkedin.com/in/jo%C3%A3o-vinicius-silva-dos-santos-65188b241/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
